@@ -1,7 +1,7 @@
 ### E ai? Eu sou, [Michel Oliveira](https://www.linkedin.com/in/micheloliveiras/). 
 ### I'm Michel Oliveira. ^^
 
->**I have studied programming since I was 14 years old, but I never dedicated myself to this area, in 2019 I started programming and today I work as an MVP developer for StartUps and businesses.**
+>**I have studied programming since I was 14 years old, but I never dedicated myself to this area, in 2019, I dedicated myself to programming and today I work as an MVP developer for StartUps and businesses.**
 
 - 🏆Success does not accept laziness🏆
 -  I am currently working on the development of Flutter financial products
@@ -10,7 +10,7 @@
 
 ##
 
->**Estudo programação desde meus 14 anos, porém nunca me dediquei a essa área, em 2019 comecei a programar e hoje trabalho como desenvolvedor de MVP para StartUps e negócios.**
+>**Estudo programação desde meus 14 anos, porém nunca me dediquei a essa área, em 2019 me dediquei a programação e hoje trabalho como desenvolvedor de MVP para StartUps e negócios.**
 
 - 🏆Sucesso não aceita preguiça🏆 
 - 🔭 Atualmente estou trabalhando no desenolvimento de produtos financeiros Flutter 
