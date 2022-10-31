@@ -13,7 +13,7 @@
 >**Estudo programação desde meus 14 anos, porém nunca me dediquei a essa área, em 2019 me dediquei a programação e hoje trabalho como desenvolvedor de MVP para StartUps e negócios.**
 
 - 🏆Sucesso não aceita preguiça🏆 
-- 🔭 Atualmente estou trabalhando no desenolvimento de produtos financeiros Flutter 
+- 🔭 Atualmente estou trabalhando no desenvolvimento de produtos financeiros Flutter 
 - 🌱 Atualmente estou aprendendo **Cyber Security, Pentest** 
 - 💬 Sou desenvolvedor/ progamador e Executivo Novos Negócios na **[ogtech devs](https://www.linkedin.com/company/ogtechdevs/).**
 
