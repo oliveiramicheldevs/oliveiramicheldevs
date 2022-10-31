@@ -1,6 +1,7 @@
-### Sup? I'm [Abhishvek](https://www.youtube.com/channel/UCIxJGxcB4pSrIvuv8FyuqUA?view_as=subscriber). A grumpy programmer, may byte.
+### E ai? Eu sou [Michel Oliveira]([https://www.youtube.com/channel/UCIxJGxcB4pSrIvuv8FyuqUA?view_as=subscriber](https://www.linkedin.com/in/micheloliveiras/)). 
 
 >**I am an AWS Solutions Architect,Flutter Developer and Kaggle Competitor Novice**
+
 - 🔭 I’m currently working on Twitch Clone with Flutter
 - 🌱 I’m currently learning **Dynamic Programming**
 - 💬 Ask me about procrastinating workflows and mobile development
