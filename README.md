@@ -1,24 +1,30 @@
-### E ai? Eu sou [Michel Oliveira](https://www.linkedin.com/in/micheloliveiras/). 
+### E ai? Eu sou, [Michel Oliveira](https://www.linkedin.com/in/micheloliveiras/). 
+### I'm Michel Oliveira. ^^
 
->**I am an AWS Solutions Architect,Flutter Developer and Kaggle Competitor Novice**
+>**I have studied programming since I was 14 years old, but I never dedicated myself to this area, in 2019 I started programming and today I work as an MVP developer for StartUps and businesses.**
 
-- 🏆Sucesso não aceita preguiça🏆 - 🏆Success does not accept laziness🏆
-- 🔭 Atualmente estou trabalhando no desenolvimento de produtos financeiros Flutter - I am currently working on the development of Flutter financial products
-- 🌱 Atualmente estou aprendendo **Cyber Security, Pentest** - I am currently learning **Cyber ​​Security, Pentest**
+- 🏆Success does not accept laziness🏆
+-  I am currently working on the development of Flutter financial products
+-  I am currently learning **Cyber ​​Security, Pentest**
 - 💬 I am a developer/programmer and New Business Executive at **[ogtech devs](https://www.linkedin.com/company/ogtechdevs/).**
 
 ##
+
+>**Estudo programação desde meus 14 anos, porém nunca me dediquei a essa área, em 2019 comecei a programar e hoje trabalho como desenvolvedor de MVP para StartUps e negócios.**
 
 - 🏆Sucesso não aceita preguiça🏆 
 - 🔭 Atualmente estou trabalhando no desenolvimento de produtos financeiros Flutter 
 - 🌱 Atualmente estou aprendendo **Cyber Security, Pentest** 
 - 💬 Sou desenvolvedor/ progamador e Executivo Novos Negócios na **[ogtech devs](https://www.linkedin.com/company/ogtechdevs/).**
--
+
 
 
 > **My Skills / Minhas Habilidades  **
 
-<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='40px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='40px'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj2noMOfz2H5Jl-AM5XWyHUJ8DY50DciBRkQ&usqp=CAU' width='40px'> 
+<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='40px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='40px'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj2noMOfz2H5Jl-AM5XWyHUJ8DY50DciBRkQ&usqp=CAU' width='40px'> <img src='https://intellipaat.com/mediaFiles/2019/02/Solidity-Logo.jpg' width='37px'> 
+
+
+
 
 > **My social networks / Minhas redes sociais ** 
 
