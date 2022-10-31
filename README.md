@@ -4,8 +4,8 @@
 >**I have studied programming since I was 14 years old, but I never dedicated myself to this area, in 2019, I dedicated myself to programming and today I work as an MVP developer for StartUps and businesses.**
 
 - 🏆Success does not accept laziness🏆
--  I am currently working on the development of Flutter financial products
--  I am currently learning **Cyber ​​Security, Pentest**
+- 🔭 I am currently working on the development of Flutter financial products
+- 🌱 I am currently learning **Cyber ​​Security, Pentest**
 - 💬 I am a developer/programmer and New Business Executive at **[ogtech devs](https://www.linkedin.com/company/ogtechdevs/).**
 
 ##
