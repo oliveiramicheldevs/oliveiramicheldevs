@@ -30,9 +30,21 @@
 
 [<img width='40px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAyPXHOk27_8BVJkWr1aK0I6uYzVfN-MIFwA&usqp=CAU'>](https://instagram.com/michel.oliveiras) [<img width='40px' src='https://lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk'>](https://twitter.com/oliveiramsdevs)  [<img width='40px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZo5-hu4ljBUa_wkUtCb8-MeGtuOQ0MD_wIQ&usqp=CAU'>](https://www.linkedin.com/in/micheloliveiras)
 
-<div align="center">
+
+
   
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oliveiramicheldevs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=oliveiramicheldevs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+ ---
  
-</div>
+   <div align="center">
+ 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=oliveiramicheldevs&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiramicheldevs&theme=dark"/>
+  <br>
+<div> </div>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiramicheldevs&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
+  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oliveiramicheldevs&theme=monokai"/>
+
+   </div>
+
+---
+
