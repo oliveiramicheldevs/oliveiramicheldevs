@@ -43,8 +43,15 @@
 <div> </div>
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiramicheldevs&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
   <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oliveiramicheldevs&theme=monokai"/>
-
+  
+  <div>  </div>
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/oliveiramicheldevs/count.svg" />
+</p>
    </div>
 
 ---
+
+
 
